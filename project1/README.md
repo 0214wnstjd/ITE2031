@@ -27,7 +27,6 @@
 
 ## Environment
 MacOS     
-C
 gcc
 
 ## Details
